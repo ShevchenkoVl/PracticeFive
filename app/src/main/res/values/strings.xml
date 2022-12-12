@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticeFive</string>
+    <string name="btn_one">ButtonOne</string>
+    <string name="btn_two">ButtonTwo</string>
+</resources>
